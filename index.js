@@ -33,9 +33,9 @@ appDiv.innerHTML = `<h1>JS Starter</h1>`;
 //}
 
 
-today.getdate() = new date();
+today.getday()=new date();
 
-switch(today.getdate()){
+switch(new date().getday()){
   case 1 :
   console.log('Monday')
    break ;
