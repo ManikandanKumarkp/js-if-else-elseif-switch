@@ -33,7 +33,7 @@ appDiv.innerHTML = `<h1>JS Starter</h1>`;
 //}
 
 
-today.getday()=new date();
+let today.getdate();=new date();
 
 switch(new date().getday()){
   case 1 :
